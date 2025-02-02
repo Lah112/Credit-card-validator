@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\CreditCardValidation.csproj": {}
+    "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\CreditCardValidation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\CreditCardValidation.csproj": {
+    "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\CreditCardValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\CreditCardValidation.csproj",
+        "projectUniqueName": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\CreditCardValidation.csproj",
         "projectName": "CreditCardValidation",
-        "projectPath": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\CreditCardValidation.csproj",
+        "projectPath": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\CreditCardValidation.csproj",
         "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\",
+        "outputPath": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
