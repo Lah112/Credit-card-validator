@@ -72,5 +72,5 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 // Define the CreditCard model
 public class CreditCard
 {
-    public string CardNumber { get; set; }
+    public required string CardNumber { get; set; }
 }

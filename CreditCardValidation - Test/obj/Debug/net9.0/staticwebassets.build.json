@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fbB8Zw408IvqR7z3QjBITKp5Zm/XmiZqkncLI44OtPw=",
+  "Hash": "XQ/Wy0vgpcB+5Q+8LyCH4OM4RUm23idQDGMxCvQ8ZLE=",
   "Source": "CreditCardValidation",
   "BasePath": "_content/CreditCardValidation",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CreditCardValidation\\wwwroot",
       "Source": "CreditCardValidation",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\",
       "BasePath": "_content/CreditCardValidation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
       "SourceId": "CreditCardValidation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CreditCardValidation",
       "RelativePath": "script#[.{fingerprint=38sb3r76es}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "xk7zxq5h8r",
       "Integrity": "3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js"
+      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
       "SourceId": "CreditCardValidation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CreditCardValidation",
       "RelativePath": "index#[.{fingerprint=wjzx6xtsep}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "xyu0eq3fc8",
       "Integrity": "yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
       "SourceId": "CreditCardValidation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CreditCardValidation",
       "RelativePath": "styles#[.{fingerprint=lsaj50ffl9}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "64u56bu5rm",
       "Integrity": "SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css"
+      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\background.jpg",
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\background.jpg",
       "SourceId": "CreditCardValidation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\",
       "BasePath": "_content/CreditCardValidation",
       "RelativePath": "background#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\background.jpg"
     },
     {
-      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\index.html",
       "SourceId": "CreditCardValidation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\",
       "BasePath": "_content/CreditCardValidation",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\script.js",
       "SourceId": "CreditCardValidation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\",
       "BasePath": "_content/CreditCardValidation",
       "RelativePath": "script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\styles.css",
       "SourceId": "CreditCardValidation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\",
       "BasePath": "_content/CreditCardValidation",
       "RelativePath": "styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
   "Endpoints": [
     {
       "Route": "background.bjjg4ohhqi.jpg",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\background.jpg",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\background.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -212,7 +212,7 @@
     },
     {
       "Route": "background.jpg",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\background.jpg",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\background.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -249,7 +249,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -304,7 +304,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -341,7 +341,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -386,7 +386,7 @@
     },
     {
       "Route": "index.wjzx6xtsep.html",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -449,7 +449,7 @@
     },
     {
       "Route": "index.wjzx6xtsep.html",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -494,7 +494,7 @@
     },
     {
       "Route": "index.wjzx6xtsep.html.gz",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -547,7 +547,7 @@
     },
     {
       "Route": "script.38sb3r76es.js",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -610,7 +610,7 @@
     },
     {
       "Route": "script.38sb3r76es.js",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -655,7 +655,7 @@
     },
     {
       "Route": "script.38sb3r76es.js.gz",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -708,7 +708,7 @@
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -763,7 +763,7 @@
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -800,7 +800,7 @@
     },
     {
       "Route": "script.js.gz",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -845,7 +845,7 @@
     },
     {
       "Route": "styles.css",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -900,7 +900,7 @@
     },
     {
       "Route": "styles.css",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -937,7 +937,7 @@
     },
     {
       "Route": "styles.css.gz",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -982,7 +982,7 @@
     },
     {
       "Route": "styles.lsaj50ffl9.css",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1045,7 +1045,7 @@
     },
     {
       "Route": "styles.lsaj50ffl9.css",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\wwwroot\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1090,7 +1090,7 @@
     },
     {
       "Route": "styles.lsaj50ffl9.css.gz",
-      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\Wisdom-Square Final\\Credit-card-validator\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
