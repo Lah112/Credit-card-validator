@@ -1,14 +1,14 @@
 /* General styles */
 body {
     font-family: 'Roboto', sans-serif;
-    background: url('background.jpg') no-repeat center center fixed; /* Add your background image here */
-    background-size: cover; /* Make sure the image covers the entire screen */
+    background: url('background.jpg') no-repeat center center fixed; 
+    background-size: cover; 
     color: #f1f1f1; /* Light text color */
     margin: 0;
     padding: 0;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Ensures the body takes up full screen height */
+    min-height: 100vh; 
 }
 
 /* Container */
@@ -17,8 +17,8 @@ body {
     max-width: 450px;
     padding: 20px;
     margin: 0 auto;
-    position: relative; /* Ensure content stays on top of the background */
-    flex-grow: 1; /* Ensures the content expands and pushes the footer down */
+    position: relative; 
+    flex-grow: 1; 
 }
 
 /* Header Styling */
