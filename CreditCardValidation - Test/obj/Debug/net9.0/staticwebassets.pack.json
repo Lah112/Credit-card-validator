@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\background.jpg",
+      "PackagePath": "staticwebassets\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CreditCardValidation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CreditCardValidation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CreditCardValidation.props",
+      "PackagePath": "build\\CreditCardValidation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CreditCardValidation.props",
+      "PackagePath": "buildMultiTargeting\\CreditCardValidation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CreditCardValidation.props",
+      "PackagePath": "buildTransitive\\CreditCardValidation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

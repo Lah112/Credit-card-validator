@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/background.bjjg4ohhqi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\background.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bjjg4ohhqi"},{"Name":"integrity","Value":"sha256-GQXK6EP2XtnY8OHM1Za6\u002BG5G1VcHMoRvYshFoVoVmtw="},{"Name":"label","Value":"_content/CreditCardValidation/background.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"939623"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GQXK6EP2XtnY8OHM1Za6\u002BG5G1VcHMoRvYshFoVoVmtw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 16:06:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/background.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\background.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GQXK6EP2XtnY8OHM1Za6\u002BG5G1VcHMoRvYshFoVoVmtw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"939623"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GQXK6EP2XtnY8OHM1Za6\u002BG5G1VcHMoRvYshFoVoVmtw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 16:06:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1237"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Feb 2025 04:34:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/index.wjzx6xtsep.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wjzx6xtsep"},{"Name":"integrity","Value":"sha256-POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0="},{"Name":"label","Value":"_content/CreditCardValidation/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1237"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Feb 2025 04:34:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/script.38sb3r76es.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"38sb3r76es"},{"Name":"integrity","Value":"sha256-o4KRBdriIzxW8baBVP9S6nXL82qqN\u002BrCKfH1NvJXjrI="},{"Name":"label","Value":"_content/CreditCardValidation/script.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2073"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022o4KRBdriIzxW8baBVP9S6nXL82qqN\u002BrCKfH1NvJXjrI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 06:05:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/script.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o4KRBdriIzxW8baBVP9S6nXL82qqN\u002BrCKfH1NvJXjrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2073"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022o4KRBdriIzxW8baBVP9S6nXL82qqN\u002BrCKfH1NvJXjrI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 06:05:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZZIunuXB6WAiB0c6x77lz\u002B/X8c1w6QXiZGvvsoDMB1Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3622"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZZIunuXB6WAiB0c6x77lz\u002B/X8c1w6QXiZGvvsoDMB1Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 16:57:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidation/styles.lsaj50ffl9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lsaj50ffl9"},{"Name":"integrity","Value":"sha256-ZZIunuXB6WAiB0c6x77lz\u002B/X8c1w6QXiZGvvsoDMB1Q="},{"Name":"label","Value":"_content/CreditCardValidation/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3622"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZZIunuXB6WAiB0c6x77lz\u002B/X8c1w6QXiZGvvsoDMB1Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 16:57:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

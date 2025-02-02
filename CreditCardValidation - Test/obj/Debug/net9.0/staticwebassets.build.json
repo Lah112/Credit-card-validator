@@ -1,0 +1,1145 @@
+{
+  "Version": 1,
+  "Hash": "fbB8Zw408IvqR7z3QjBITKp5Zm/XmiZqkncLI44OtPw=",
+  "Source": "CreditCardValidation",
+  "BasePath": "_content/CreditCardValidation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CreditCardValidation\\wwwroot",
+      "Source": "CreditCardValidation",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "BasePath": "_content/CreditCardValidation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "SourceId": "CreditCardValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CreditCardValidation",
+      "RelativePath": "script#[.{fingerprint=38sb3r76es}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xk7zxq5h8r",
+      "Integrity": "3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "SourceId": "CreditCardValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CreditCardValidation",
+      "RelativePath": "index#[.{fingerprint=wjzx6xtsep}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xyu0eq3fc8",
+      "Integrity": "yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "SourceId": "CreditCardValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CreditCardValidation",
+      "RelativePath": "styles#[.{fingerprint=lsaj50ffl9}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "64u56bu5rm",
+      "Integrity": "SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\background.jpg",
+      "SourceId": "CreditCardValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "BasePath": "_content/CreditCardValidation",
+      "RelativePath": "background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bjjg4ohhqi",
+      "Integrity": "GQXK6EP2XtnY8OHM1Za6+G5G1VcHMoRvYshFoVoVmtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "SourceId": "CreditCardValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "BasePath": "_content/CreditCardValidation",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wjzx6xtsep",
+      "Integrity": "POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "SourceId": "CreditCardValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "BasePath": "_content/CreditCardValidation",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "38sb3r76es",
+      "Integrity": "o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "SourceId": "CreditCardValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\",
+      "BasePath": "_content/CreditCardValidation",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsaj50ffl9",
+      "Integrity": "ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "background.bjjg4ohhqi.jpg",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GQXK6EP2XtnY8OHM1Za6+G5G1VcHMoRvYshFoVoVmtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:06:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjjg4ohhqi"
+        },
+        {
+          "Name": "label",
+          "Value": "background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GQXK6EP2XtnY8OHM1Za6+G5G1VcHMoRvYshFoVoVmtw="
+        }
+      ]
+    },
+    {
+      "Route": "background.jpg",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GQXK6EP2XtnY8OHM1Za6+G5G1VcHMoRvYshFoVoVmtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:06:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GQXK6EP2XtnY8OHM1Za6+G5G1VcHMoRvYshFoVoVmtw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001782531194"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 04:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 04:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 04:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I="
+        }
+      ]
+    },
+    {
+      "Route": "index.wjzx6xtsep.html",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001782531194"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 04:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wjzx6xtsep"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0="
+        }
+      ]
+    },
+    {
+      "Route": "index.wjzx6xtsep.html",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 04:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wjzx6xtsep"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-POwmtsnGkLEsSu8bQAK9dn3S6ePJOt2OmoGYid1tHo0="
+        }
+      ]
+    },
+    {
+      "Route": "index.wjzx6xtsep.html.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\klwk6pd1tg-wjzx6xtsep.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 04:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wjzx6xtsep"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yQLbuZiVT7wKGhaojowQMC6kxJqhx1YIV1aI/V7I90I="
+        }
+      ]
+    },
+    {
+      "Route": "script.38sb3r76es.js",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001379310345"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "724"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "38sb3r76es"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI="
+        }
+      ]
+    },
+    {
+      "Route": "script.38sb3r76es.js",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "38sb3r76es"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI="
+        }
+      ]
+    },
+    {
+      "Route": "script.38sb3r76es.js.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "38sb3r76es"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001379310345"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "724"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4KRBdriIzxW8baBVP9S6nXL82qqN+rCKfH1NvJXjrI="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\3b844ytlal-38sb3r76es.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3/USsQdssLKl5hLodxKdNiC3b0XZGZbkooRhGFlhGF4="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000858369099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1164"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.lsaj50ffl9.css",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000858369099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1164"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsaj50ffl9"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.lsaj50ffl9.css",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsaj50ffl9"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZIunuXB6WAiB0c6x77lz+/X8c1w6QXiZGvvsoDMB1Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.lsaj50ffl9.css.gz",
+      "AssetFile": "C:\\Users\\Kanishka\\Desktop\\CreditCardValidation - Test\\obj\\Debug\\net9.0\\compressed\\szjl9y4sz7-lsaj50ffl9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsaj50ffl9"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SubedPRnHunzSt1ryR0/nkgvKAID9YaByZeew1qdmwI="
+        }
+      ]
+    }
+  ]
+}

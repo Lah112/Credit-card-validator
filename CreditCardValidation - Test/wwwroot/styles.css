@@ -1,0 +1,156 @@
+/* General styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url('background.jpg') no-repeat center center fixed; /* Add your background image here */
+    background-size: cover; /* Make sure the image covers the entire screen */
+    color: #f1f1f1; /* Light text color */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures the body takes up full screen height */
+}
+
+/* Container */
+.container {
+    width: 100%;
+    max-width: 450px;
+    padding: 20px;
+    margin: 0 auto;
+    position: relative; /* Ensure content stays on top of the background */
+    flex-grow: 1; /* Ensures the content expands and pushes the footer down */
+}
+
+/* Header Styling */
+.header {
+    background: rgba(0, 0, 0, 0.6); /* Dark transparent background */
+    padding: 40px 0;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    border-bottom: 2px solid #1cc88a; /* Premium green border for elegance */
+    position: relative;
+    z-index: 1;
+}
+
+.header-title {
+    font-size: 40px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.header-subtitle {
+    font-size: 18px;
+    color: #f1f1f1;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+/* Card Styling */
+.card {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for card */
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    text-align: center;
+    border: 1px solid #444;
+    margin-top: 30px;
+}
+
+/* Header inside Card */
+.card h2 {
+    font-size: 24px;
+    color: #f1f1f1;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+/* Input styling */
+input[type="text"] {
+    font-size: 18px;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    border: 1px solid #444;
+    background-color: #333;
+    color: #f1f1f1;
+    width: calc(100% - 30px); /* To align with the button */
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-color: #1cc88a; /* Premium green color on focus */
+}
+
+/* Button Styling */
+button {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 12px 20px;
+    border-radius: 8px;
+    background-color: #1cc88a;
+    color: #fff;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+    background-color: #18b67b;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Result styling */
+#result {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+#result.success {
+    color: #28a745;
+}
+
+#result.error {
+    color: #dc3545;
+}
+
+#result.show {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Footer Styling */
+.footer {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent footer background */
+    padding: 20px 0;
+    text-align: center;
+    color: #f1f1f1;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.4);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: auto; /* Ensures footer stays at the bottom */
+}
+
+.footer p {
+    margin: 5px 0;
+    font-size: 14px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
